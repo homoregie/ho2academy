@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/dotnet/demo/demo.apps/demoweb.api/bin/Debug/net8.0
+/dotnet/demo/demo.apps/demoweb.api/obj
+/dotnet/demo/demo.apps/mvcweb.app/bin/Debug/net8.0
+/dotnet/demo/demo.apps/mvcweb.app/obj
+/dotnet/demo/demo.apps/web/blazor.app/bin/Debug/net8.0
+/dotnet/demo/demo.apps/web/blazor.app/obj
+/dotnet/project/instructor.projects/.vs/instructor.projects
+/dotnet/project/instructor.projects/misc.app/bin/Debug/net8.0
+/dotnet/project/instructor.projects/misc.app/obj
+/dotnet/project/student.projects/.vs/student.projects
+/dotnet/demo/demo.apps/.vs
+/dotnet/demo/demo.apps/console/FibonacciGen/bin/Debug/net6.0
+/dotnet/demo/demo.apps/console/FibonacciGen/obj
